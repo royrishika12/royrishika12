@@ -1,4 +1,4 @@
-👋 Hi! I’m Rishika Roy, a passionate developer exploring the world of coding and open-source. I love building projects that solve real-world problems and learning new technologies along the way.<br><br>💻 Skills: HTML, CSS, JavaScript, Python, C, Git, GitHub<br>🚀 Interests: Web Development, Full-Stack Projects, Open-Source Collaboration<br><br>Always eager to collaborate and contribute!<br><br>Option 2: Detailed & Professional<br>Hi, I’m Rishika Roy, a software enthusiast and lifelong learner. I enjoy creating meaningful projects, experimenting with new technologies, and contributing to open-source communities. I believe in writing clean, efficient code that solves problems and adds value.<br><br>🔹 Current Focus: Full-Stack Development, Web Applications, Git/GitHub workflows<br>🔹 Skills: Python, C, JavaScript, HTML, CSS, SQL<br>🔹 Fun Fact: I love exploring hackathons and turning ideas into real projects.<br><br>Let’s connect and build something amazing!
+🚀Hi, I’m Rishika Roy, a software enthusiast and lifelong learner. I enjoy creating meaningful projects, experimenting with new technologies, and contributing to open-source communities. I believe in writing clean, efficient code that solves problems and adds value.<br><br>🔹 Current Focus: Full-Stack Development, Web Applications, Git/GitHub workflows<br>🔹 Skills: Python, C, JavaScript, HTML, CSS, SQL<br>🔹 Fun Fact: I love exploring hackathons and turning ideas into real projects.<br><br>Let’s connect and build something amazing!
 
 
 ## 🌐 Socials:
@@ -14,10 +14,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=royrishika12 &limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=royrishika12 &icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
