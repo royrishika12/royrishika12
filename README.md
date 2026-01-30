@@ -4,7 +4,7 @@
 
 ## 🌟 About Me:
 
-I am a Full-Stack Developer passionate about crafting intuitive UIs and seamless user experiences. I specialize in building end-to-end applications, bridging the gap between elegant frontend design and scalable backend architecture. I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
+I am Rishika Roy a Full-Stack Developer and a DSA enthusiast passionate about crafting intuitive UIs and seamless user experiences. I specialize in building end-to-end applications, bridging the gap between elegant frontend design and scalable backend architecture.Currently working on python and django.I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
 
 ---
 
