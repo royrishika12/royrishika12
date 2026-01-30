@@ -49,7 +49,6 @@ I am Rishika Roy a Full-Stack Developer passionate about crafting intuitive UIs 
 
 ---
 
-✨ _“Turning ideas into reality through code.”_ ✨
 
 
 
