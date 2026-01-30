@@ -51,6 +51,10 @@ I am Rishika Roy a Full-Stack Developer and a DSA enthusiast passionate about cr
   <img src="https://img.shields.io/badge/Appwrite-pink?style=for-the-badge&logo=appwrite"/>
   <br/>
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
+![DSA](https://img.shields.io/badge/DSA-1f425f?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Artificial%20Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-5c2d91?style=for-the-badge)
 </p>
 
 ---
