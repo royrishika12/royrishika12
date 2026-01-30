@@ -1,13 +1,83 @@
-🚀Hi, I’m Rishika Roy, a software enthusiast and lifelong learner. I enjoy creating meaningful projects, experimenting with new technologies, and contributing to open-source communities. I believe in writing clean, efficient code that solves problems and adds value.<br><br>🔹 Current Focus: Full-Stack Development, Web Applications, Git/GitHub workflows<br>🔹 Skills: Python, C, JavaScript, HTML, CSS, SQL<br>🔹 Fun Fact: I love exploring hackathons and turning ideas into real projects.<br><br>Let’s connect and build something amazing!
+<h1 align="center">👩‍💻 Computer Science Undergraduate | Full-Stack Web Developer</h1>
 
+---
+
+## 🌟 About Me:
+
+I am a Full-Stack Developer passionate about crafting intuitive UIs and seamless user experiences. I specialize in building end-to-end applications, bridging the gap between elegant frontend design and scalable backend architecture. I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
+
+---
 
 ## 🌐 Socials:
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishika Roy ) ][[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:royrishika2508@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishika-roy-2a2923399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:royrishika1508@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/royrishika12">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://x.com/rishika_ro93808">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+  </a>
+</p>
 
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💻 Tech Stack:
 
+<p align="left">
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap"/>
+  <br/>
+  <img src="https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Appwrite-pink?style=for-the-badge&logo=appwrite"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=royrishika12&show_icons=true&theme=dark" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royrishika12&theme=dark" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royrishika12&layout=compact&theme=dark"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=royrishika12&theme=darkhub&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote:
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
