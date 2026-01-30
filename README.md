@@ -1,6 +1,29 @@
-# 👑 Rishika Roy
+<h1 align="center">👩‍💻 Computer Science Undergraduate | Full-Stack Web Developer| DSA enthusiast| AIML </h1>
 
-💻 Web Developer | 🌐 Tech Enthusiast | 🚀 Passionate Learner
+---
+
+## 🌟 About Me:
+
+I am Rishika Roy a Full-Stack Developer passionate about crafting intuitive UIs and seamless user experiences. I specialize in building end-to-end applications, bridging the gap between elegant frontend design and scalable backend architecture. I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
+
+---
+
+## 🌐 Socials:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishika-roy-2a2923399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:royrishika1508@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/royrishika12">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://x.com/rishika_ro93808">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+  </a>
+</p>
 
 ---
 
@@ -16,26 +39,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Artificial%20Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-5c2d91?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=royrishika12&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royrishika12&layout=compact&theme=dark" />
-</p>
-
----
-
-## 🏆 GitHub Achievements:
-<p align="center">
-  <img src="https://img.shields.io/github/followers/royrishika12?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/royrishika12?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/commit-activity/m/royrishika12?style=for-the-badge" />
-</p>
 
 ---
 
