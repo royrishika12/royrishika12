@@ -1,85 +1,46 @@
-<h1 align="center">👩‍💻 Computer Science Undergraduate | Full-Stack Web Developer</h1>
+
+# 👑 Rishika Roy
+
+💻 Web Developer | 🌐 Tech Enthusiast | 🚀 Passionate Learner
 
 ---
 
-## 🌟 About Me:
-
-I am a Full-Stack Developer passionate about crafting intuitive UIs and seamless user experiences. I specialize in building end-to-end applications, bridging the gap between elegant frontend design and scalable backend architecture. I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
-
----
-
-## 🌐 Socials:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rishika-roy-2a2923399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:royrishika1508@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/royrishika12">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://x.com/rishika_ro93808">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
-  <br/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
-  <br/>
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap"/>
-  <br/>
-  <img src="https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Appwrite-pink?style=for-the-badge&logo=appwrite"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
-</p>
+## 🛠 Skills & Tools:
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
+![Appwrite](https://img.shields.io/badge/Appwrite-f02e65?style=for-the-badge&logo=appwrite)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 ---
 
 ## 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=royrishika12&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=royrishika12&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royrishika12&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royrishika12&layout=compact&theme=dark" />
 </p>
 
-
+---
 
 ## 🏆 GitHub Achievements:
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/royrishika12?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/royrishika12?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/commit-activity/m/royrishika12?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/royrishika12?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/royrishika12?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/commit-activity/m/royrishika12?style=for-the-badge" />
 </p>
 
-
-
+---
 
 ## ✍️ Random Dev Quote:
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
+
+---
+
+✨ _“Turning ideas into reality through code.”_ ✨
