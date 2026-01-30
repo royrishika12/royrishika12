@@ -58,21 +58,23 @@ I am a Full-Stack Developer passionate about crafting intuitive UIs and seamless
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=royrishika12&show_icons=true&theme=dark&cache_seconds=1800" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royrishika12&theme=dark&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=royrishika12&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royrishika12&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royrishika12&layout=compact&theme=tokyonight"/>
 </p>
 
----
 
-## 🏆 GitHub Trophies:
+
+## 🏆 GitHub Achievements:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=royrishika12&theme=onedark&no-frame=true&margin-w=15"/>
+  <img src="https://img.shields.io/github/followers/royrishika12?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/royrishika12?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/commit-activity/m/royrishika12?style=for-the-badge"/>
 </p>
+
 
 
 
